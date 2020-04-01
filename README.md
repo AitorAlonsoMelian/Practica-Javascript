@@ -1,6 +1,7 @@
 # Introducción a JavaScript
 
-Realizado por 
+Realizado por:
+**GRUPO 04**
 - Aitor Alonso Melian
 - Jesus Chamizo Pérez
 - Eduardo Da Silva Yanes
